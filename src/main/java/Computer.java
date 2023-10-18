@@ -1,7 +1,7 @@
 package main.java;
 
 public class Computer {
-    int screenSize;
+    double screenSize;
     CPU myCPU;
     RAM myRAM;
 
